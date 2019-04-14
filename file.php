@@ -5,12 +5,13 @@
  * Date: 2019/4/14
  * Time: 10:55
  */
-function aaa()
+function asd()
 {
-    echo 1234566;
+
 }
 
+function aaa()
+{
 
-
-
+}
 
