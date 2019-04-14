@@ -5,10 +5,8 @@
  * Date: 2019/4/14
  * Time: 10:55
  */
-function aas()
-{
-    echo 111;exit;
-}
+
+
 
 
 
