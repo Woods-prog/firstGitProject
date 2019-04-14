@@ -7,7 +7,7 @@
  */
 function aas()
 {
-
+    echo 111;exit;
 }
 
 
