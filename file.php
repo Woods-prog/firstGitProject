@@ -7,7 +7,7 @@
  */
 function asd()
 {
-
+    echo 123;exit;
 }
 
 
