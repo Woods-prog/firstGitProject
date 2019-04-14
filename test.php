@@ -9,3 +9,10 @@ function test()
 {
     echo 111;
 }
+
+
+
+function asd()
+{
+
+}
